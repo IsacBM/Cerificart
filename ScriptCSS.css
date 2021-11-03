@@ -15,6 +15,7 @@ marquee {
   .menu ul li {
     display: inline;
   }
+
   .menu ul li a {
     padding: 10px 10px;
     display: inline-block;
@@ -43,6 +44,7 @@ marquee {
   .rodape ul li {
     display: inline;
   }
+
   .rodape ul li a {
     padding: 10px 10px;
     display: inline-block;
